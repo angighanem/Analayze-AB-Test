@@ -21,7 +21,7 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 - [Conclusion](#conclusion)
 
 ## Program File
-The code is found as a Jupyter Notebook and as a html called Analyze_ab_test_results_notebook_V1.
+The code is found as a Jupyter Notebook called Analyze_ab_test_results_notebook_V1.
 
 ## Requirements
   - Libraries
