@@ -1,4 +1,4 @@
-# Analayze-AB-Test
+# Analyze-AB-Test
 Analyze ab_data dataset 
 
 ## Overview
